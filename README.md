@@ -2,7 +2,7 @@
 
 An end-to-end cloud security platform combining **Machine Learning**, **AWS cloud infrastructure**, and **AI-assisted analysis** — built as a hands-on learning project, tested against a real AWS account.
 
-> Built by [Rafi](https://github.com/klrrafi20-crypto) — started with zero prior experience in Python, ML, or cloud platforms.
+> Built by [Rafi](https://github.com/klrrafi20-crypto) —.
 
 ---
 
