@@ -108,7 +108,7 @@ python run_app.py
 - The platform analyzes real AWS CloudTrail logs. The supervised Threat Detection classifier was initially trained using synthetic labeled data due to the limited availability of publicly labeled cloud attack datasets. The architecture supports retraining with real-world datasets as they become available
 - The free-tier Gemini API allows a limited number of requests per day; heavy testing may temporarily exhaust this quota.
 - VPC Flow Logs require active AWS resources (e.g. a running EC2 instance) to produce meaningful traffic data.
-- "The platform supports manual Live Scans and automatic periodic rescans during runtime. It does not provide always-on monitoring when the application is not running.
+- The platform supports manual Live Scans and automatic periodic rescans during runtime. It does not provide always-on monitoring when the application is not running.
 - This is a student/portfolio project, not a production-grade security tool. Only run it against AWS accounts you own or have explicit permission to scan.
 
 ---
