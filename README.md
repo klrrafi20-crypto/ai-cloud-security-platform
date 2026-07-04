@@ -104,7 +104,7 @@ python run_app.py
 
 ## ⚠️ Honest Limitations
 
-- The Threat Detection classifier is trained on **synthetic** data, not real-world attack datasets — real-world accuracy may differ.
+- The Threat Detection classifier is trained on **synthetic** data, real-world accuracy may differ.
 - The free-tier Gemini API allows a limited number of requests per day; heavy testing may temporarily exhaust this quota.
 - VPC Flow Logs require active AWS resources (e.g. a running EC2 instance) to produce meaningful traffic data.
 - "Continuous Verification" runs only while the app is open locally — this is not a 24/7 hosted monitoring service.
