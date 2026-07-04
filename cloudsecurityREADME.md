@@ -101,13 +101,6 @@ python -m streamlit run dashboard.py
 ```bash
 python run_app.py
 ```
-
----
-
-## 📸 Screenshots
-
-*(Add a few screenshots of your dashboard tabs here — IAM graph, Zero Trust scores, S3 scan results, etc.)*
-
 ---
 
 ## ⚠️ Honest Limitations
