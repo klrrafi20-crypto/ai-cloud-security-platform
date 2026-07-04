@@ -1,0 +1,17 @@
+# Never upload these
+*.pem
+__pycache__/
+*.pyc
+.env
+
+# Real AWS data exports (contain real account info)
+real_aws_events.csv
+real_bruteforce_events.csv
+iam_audit_results.csv
+s3_exposure_results.csv
+vpc_flow_log_sample.csv
+
+# Large generated files (optional to exclude)
+threat_model.pkl
+login_events.csv
+login_events_from_cloud.csv
