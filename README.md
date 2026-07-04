@@ -102,14 +102,6 @@ python -m streamlit run dashboard.py
 python run_app.py
 ```
 
----
-
-## 📸 Screenshots
-
-*(Add a few screenshots of your dashboard tabs here — IAM graph, Zero Trust scores, S3 scan results, etc.)*
-
----
-
 ## ⚠️ Honest Limitations
 
 - The Threat Detection classifier is trained on **synthetic** data, not real-world attack datasets — real-world accuracy may differ.
